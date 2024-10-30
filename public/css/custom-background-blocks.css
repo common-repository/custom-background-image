@@ -1,0 +1,7 @@
+.wp-site-blocks {
+  background-attachment: fixed !important;
+  background-repeat: no-repeat !important;
+  background-position: center !important;
+  background-size: cover !important;
+  margin: 0 !important;
+}
